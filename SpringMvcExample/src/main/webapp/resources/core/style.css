@@ -1,0 +1,23 @@
+.label, input{
+	margin-right:10px;
+}
+
+table{
+	margin-top:50px;
+}
+
+td{
+	background-color:white;
+}
+th{
+	color:white;
+	background-color:blue;
+}
+ 
+.tableShow{
+	display:block;	
+}
+
+.tableHide{
+	display:none;	
+}
